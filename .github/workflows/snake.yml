@@ -16,14 +16,15 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate Snake
         uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: shah-somil
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
         env:
