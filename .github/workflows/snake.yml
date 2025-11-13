@@ -13,26 +13,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create dist directory
-        run: mkdir -p dist
 
       - name: Generate Snake
         uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: shah-somil
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: output/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
-          git add dist/
+          git add output/
           git commit -m "chore: update snake animation" || exit 0
           git push
 
