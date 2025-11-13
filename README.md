@@ -83,7 +83,7 @@ Right now I'm deep in the AI engineering world—building RAG systems, playing w
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/shah-somil/shah-somil/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/shah-somil/shah-somil/dist/github-contribution-grid-snake.svg)
   
 </div>
 
