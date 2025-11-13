@@ -62,45 +62,18 @@ Right now I'm deep in the AI engineering world—building RAG systems, playing w
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shah-somil&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah-somil&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shah-somil&theme=radical&hide_border=true)
-  
-</div>
-
----
-
-## My Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/shah-somil/shah-somil/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/somilshah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/somilshah" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:somil@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:somil@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/shah-somil">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/shah-somil" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
 </div>
